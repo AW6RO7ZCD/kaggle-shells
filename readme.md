@@ -1,0 +1,1 @@
+All these files are related to the Shells dataset, at <a href="https://www.kaggle.com/datasets/aw6ro7zcd/shells">Kaggle</a>, where you can find more information.
