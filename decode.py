@@ -59,7 +59,7 @@ def decode(column: str, code: str) -> object:
                 case 0:
                     return nan_value
                 case _:
-                    return (encoded-1)*ANGLE_INTERVAL + 61.00
+                    return (encoded-1)*ANGLE_INTERVAL + 61.875
         case 'Length':
             return encoded/10.0
         case 'Width':
